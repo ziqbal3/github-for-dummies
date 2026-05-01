@@ -1,4 +1,5 @@
 def print_name():
-    print("Zubair Iqbal")
+    name = input("What's your name? ")
+    print(name)
 
 print_name()
